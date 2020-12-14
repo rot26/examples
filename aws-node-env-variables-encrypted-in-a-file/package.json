@@ -5,6 +5,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "serverless-secrets-plugin": "^0.0.1"
+    "serverless-secrets-plugin": "^0.1.0"
   }
 }
